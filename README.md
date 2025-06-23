@@ -8,6 +8,6 @@
 
 ```sh
 git clone https://github.com/tetchan-lab/terminal-setting.git
-cd macOS-terminal-setting
+cd terminal-setting
 ```
 
